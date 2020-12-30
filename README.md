@@ -1,0 +1,3 @@
+# PLACE TO EXPERIMENT WITH NEW WEBSITE DESIGN
+
+Planning to eventually redo justingosses.com from a WordPres site to a ruby + JavaScript site. Will use this repository as scratchpad starting with the template from StartBootstrap/startbootstrap-clean-blog and editing everything from there....
